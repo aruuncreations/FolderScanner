@@ -53,8 +53,5 @@ The tool is distributed as a standalone executable (`folder_scanner_html_new.exe
 - Allow users to specify a custom directory to scan (currently scans the directory where the `.exe` is located).
 - Include more export options (e.g., CSV, JSON).
 
-## Source Code
-The original Python script (`folder_scanner_html_new.py`) is available in this repository for reference. It was converted to an `.exe` using PyInstaller.
-
 ## License
 This project is licensed under the MIT License.
